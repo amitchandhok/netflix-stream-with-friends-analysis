@@ -21,12 +21,12 @@ It goes far beyond a toy dataset or competition — it's meant to reflect how re
 
 ## 🛠️ Tools Used
 
-- **SQL** (PostgreSQL syntax simulated via SQLite or PostgreSQL)
+- **SQL** (PostgreSQL)
 - **Python** (Pandas, Scikit-learn, Matplotlib, Seaborn)
 - **A/B Testing** logic and simulation
 - **Logistic Regression** for churn prediction
 - **Data schema simulation** and tracking plans
-- Optional: Streamlit or Tableau-style dashboard mockup
+- **Dashboard** (streamlit)
 
 ---
 
