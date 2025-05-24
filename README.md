@@ -141,7 +141,3 @@ Based on all findings:
 - Use a real BI dashboard tool (Streamlit / Power BI)
 
 ---
-
-## 📫 Contact
-
-Built by Amit Chandhok – aspiring data scientist with experience in analytics at Lionsgate and a Master’s in Management Analytics from Queen’s University.
